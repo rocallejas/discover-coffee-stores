@@ -1,7 +1,7 @@
 /*
 Verde #00512D;
 Cafe #382E1E;
-Cafe claro #CF9f69;
+Cafe claro #CF9F69;
 Blanco #FCFCFC;
 */
 
@@ -26,4 +26,13 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+:root{
+  --text-black: rgba(17, 24, 39, 1);
+  --text-green: rgba(0, 81, 45, 1);
+  --text-white-100: rgba(229, 231, 235, 1);
+  --text-white: rgba(252, 252, 252, 1);
+  --text-brown-dark: rgba(56, 46, 30, 1);
+  --text-brown-light: rgba(207, 159, 105, 1);
 }
